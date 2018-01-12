@@ -1,0 +1,11 @@
+C:\Users\rikda\Desktop\asbest\greenfox\Rikkerdaniel\week-07\questionLine\QuestionLine\QuestionLine\obj\Debug\netcoreapp2.0\QuestionLine.csproj.CoreCompileInputs.cache
+C:\Users\rikda\Desktop\asbest\greenfox\Rikkerdaniel\week-07\questionLine\QuestionLine\QuestionLine\obj\Debug\netcoreapp2.0\QuestionLine.AssemblyInfoInputs.cache
+C:\Users\rikda\Desktop\asbest\greenfox\Rikkerdaniel\week-07\questionLine\QuestionLine\QuestionLine\obj\Debug\netcoreapp2.0\QuestionLine.AssemblyInfo.cs
+C:\Users\rikda\Desktop\asbest\greenfox\Rikkerdaniel\week-07\questionLine\QuestionLine\QuestionLine\bin\Debug\netcoreapp2.0\QuestionLine.deps.json
+C:\Users\rikda\Desktop\asbest\greenfox\Rikkerdaniel\week-07\questionLine\QuestionLine\QuestionLine\bin\Debug\netcoreapp2.0\QuestionLine.runtimeconfig.json
+C:\Users\rikda\Desktop\asbest\greenfox\Rikkerdaniel\week-07\questionLine\QuestionLine\QuestionLine\bin\Debug\netcoreapp2.0\QuestionLine.runtimeconfig.dev.json
+C:\Users\rikda\Desktop\asbest\greenfox\Rikkerdaniel\week-07\questionLine\QuestionLine\QuestionLine\bin\Debug\netcoreapp2.0\QuestionLine.dll
+C:\Users\rikda\Desktop\asbest\greenfox\Rikkerdaniel\week-07\questionLine\QuestionLine\QuestionLine\bin\Debug\netcoreapp2.0\QuestionLine.pdb
+C:\Users\rikda\Desktop\asbest\greenfox\Rikkerdaniel\week-07\questionLine\QuestionLine\QuestionLine\obj\Debug\netcoreapp2.0\QuestionLine.dll
+C:\Users\rikda\Desktop\asbest\greenfox\Rikkerdaniel\week-07\questionLine\QuestionLine\QuestionLine\obj\Debug\netcoreapp2.0\QuestionLine.pdb
+C:\Users\rikda\Desktop\asbest\greenfox\Rikkerdaniel\week-07\questionLine\QuestionLine\QuestionLine\obj\Debug\netcoreapp2.0\QuestionLine.csprojResolveAssemblyReference.cache
